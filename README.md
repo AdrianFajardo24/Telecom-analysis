@@ -19,6 +19,4 @@ Haz clic en el siguiente enlace de Google Colab:
 https://colab.research.google.com/github/AdrianFajardo24/Telecom-analysis/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
 
 ## Cómo reproducir el análisis
-1. Abre 
-2. Ejecuta las celdas en orden
-3. El notebook carga automáticamente el dataset desde `/data/`
+1. Ejecuta las celdas en orden
